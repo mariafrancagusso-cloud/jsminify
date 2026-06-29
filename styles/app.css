@@ -88,7 +88,7 @@ body {
     flex-shrink: 0;
 }
 .user-info { display: flex; flex-direction: column; gap: 1px; overflow: hidden; }
-.user-name { font-size: 13px; font-weight: 600; truncate; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.user-name { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .user-email { font-size: 11px; color: var(--text-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .btn-logout {
